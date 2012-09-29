@@ -13,6 +13,8 @@ Get code: (modify directories as necessary)
 
 `rosws set ~/ros_workspace/ROS_PlayerStage_Playground`
 
+`source ~/ros_workspace/setup.bash`
+
 Build code:
 
 `rosmake navigation_playground`
