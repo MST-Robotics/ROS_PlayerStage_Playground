@@ -8,7 +8,9 @@ Follow the instructions below to get started. If you have not already complete t
 Get code: (modify directories as necessary)
 
 `cd ~/ros_workspace`
+
 `git clone git@github.com:MST-Robotics/ROS_PlayerStage_Playground.git`
+
 `rosws set ~/ros_workspace/ROS_PlayerStage_Playground`
 
 Build code:
