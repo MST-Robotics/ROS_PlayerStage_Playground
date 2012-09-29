@@ -6,14 +6,17 @@ This repository contains a basic setup to allow quickly diving into navigation a
 Follow the instructions below to get started. If you have not already complete the instructions in the new members tutorials from our GitHub wiki before setting this up.
 
 Get code: (modify directories as necessary)
+
 `cd ~/ros_workspace`
 `git clone git@github.com:MST-Robotics/ROS_PlayerStage_Playground.git`
 `rosws set ~/ros_workspace/ROS_PlayerStage_Playground`
 
 Build code:
+
 `rosmake navigation_playground`
 
-Run:
+Run simulation:
+
 `roslaunch navigation_playground playground.launch`
 
 The blue square represents your robot, it should be just driving in a circle if you didn't modify the code.
