@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="stage" type="stageros" name="stageros" args="$(find navigation_playground)/world/willow-erratic.world" />
+    <node pkg="navigation_playground" type="playground" name="playground" />
+</launch>

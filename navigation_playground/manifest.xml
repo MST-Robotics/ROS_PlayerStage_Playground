@@ -1,0 +1,19 @@
+<package>
+  <description brief="navigation_playground">
+
+     navigation_playground
+
+  </description>
+  <author>Jason Gassel</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/navigation_playground</url>
+  <depend package="roscpp"/>
+  <depend package="stage"/>
+  <depend package="nav_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="geometry_msgs" />
+
+</package>
+
+
